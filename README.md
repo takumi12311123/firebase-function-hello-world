@@ -17,7 +17,7 @@ firebase use <your project id>
 
 ### view project list in your account
 ```
-firebase project:list
+firebase projects:list
 ```
 
 ### deploy your function
