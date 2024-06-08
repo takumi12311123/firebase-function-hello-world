@@ -22,5 +22,5 @@ firebase projects:list
 
 ### deploy your function
 ```
-firebase deploy --only functions
+firebase deploy --only functions:<your function name>
 ```
